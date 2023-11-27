@@ -1,9 +1,11 @@
-# Grupo-2-TPF-Java-Int-UTN
+# Proyecto Final Curso Java Intermedio UTN - Argentina Programa 4.0
+
+## Grupo-2-TPF-Java-Int-UTN
 
 
 ![DER - Proyecto Final2](https://github.com/silvina-riera/Grupo-2-TPF-Java-Int-UTN/assets/116129705/77b4e410-d067-4330-9c5d-6f2c19b9f0a3)
 
-# Entrega 2
+## Entrega 2
 En esta segunda iteración nos encargaremos de mapear, mediante anotaciones JPA, nuestras
 clases implementadas para poder persistir el modelo en una Base de Datos Relacional.
 Además, comenzaremos con la generación de los repositorios/servicios para que brinden
